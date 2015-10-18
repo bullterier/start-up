@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\New folder\Elinasfirstsolution\Elinasfirstprojects\bin\Debug\Elinasfirstprojects.exe.config
+C:\Users\Admin\Desktop\New folder\Elinasfirstsolution\Elinasfirstprojects\bin\Debug\Elinasfirstprojects.exe
+C:\Users\Admin\Desktop\New folder\Elinasfirstsolution\Elinasfirstprojects\bin\Debug\Elinasfirstprojects.pdb
+C:\Users\Admin\Desktop\New folder\Elinasfirstsolution\Elinasfirstprojects\obj\Debug\Elinasfirstprojects.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\New folder\Elinasfirstsolution\Elinasfirstprojects\obj\Debug\Elinasfirstprojects.exe
+C:\Users\Admin\Desktop\New folder\Elinasfirstsolution\Elinasfirstprojects\obj\Debug\Elinasfirstprojects.pdb
